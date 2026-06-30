@@ -1,0 +1,6 @@
+{
+  "name": "Farm-to-Home Marketplace",
+  "description": "A sustainable, transparent direct-from-farmers marketplace connecting local happy growers to customer doorsteps with live eco-logistics tracking and an AI Copilot advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
